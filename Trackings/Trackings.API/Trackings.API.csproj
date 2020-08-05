@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <ProjectGuid>{28f2ce07-c659-4664-982e-7a88c3e9d2d2}</ProjectGuid>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+     <PackageReference Include="Autofac" Version="4.9.2" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.4.0" />
+    <PackageReference Include="Mapster" Version="6.0.0" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="net-realplaza-core" Version="1.0.18" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Trackings.Application\Trackings.Application.csproj" />
+    <ProjectReference Include="..\Trackings.Service\Trackings.Service.csproj" />
+  </ItemGroup>
+</Project>

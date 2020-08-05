@@ -1,0 +1,8 @@
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.deps.json
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.dll
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.pdb
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.AssemblyInfoInputs.cache
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.AssemblyInfo.cs
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.dll
+C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.pdb
