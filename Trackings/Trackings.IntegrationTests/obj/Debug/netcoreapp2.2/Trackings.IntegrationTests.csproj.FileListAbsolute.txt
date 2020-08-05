@@ -13,3 +13,18 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.IntegrationTests\o
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.pdb
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.genruntimeconfig.cache
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\Trackings.IntegrationTests.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\Trackings.IntegrationTests.runtimeconfig.json
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\Trackings.IntegrationTests.runtimeconfig.dev.json
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\Trackings.IntegrationTests.dll
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\bin\Debug\netcoreapp2.2\Trackings.IntegrationTests.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.csprojAssemblyReference.cache
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.csproj.CoreCompileInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.dll
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.IntegrationTests\obj\Debug\netcoreapp2.2\Trackings.IntegrationTests.genruntimeconfig.cache

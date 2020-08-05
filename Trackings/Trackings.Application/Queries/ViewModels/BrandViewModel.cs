@@ -2,8 +2,8 @@
 {
     public class BrandViewModel
     {
-        public int brand_id { get; set; }
-        public string brand_name { get; set; }
-        public string brand_ruc { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public string ruc { get; set; }
     }
 }

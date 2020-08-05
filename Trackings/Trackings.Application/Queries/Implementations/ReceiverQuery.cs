@@ -1,9 +1,12 @@
 ﻿using Dapper;
+using Mapster;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Linq;
 using System.Threading.Tasks;
+using Trackings.Application.Queries.Mappers;
 
 namespace Trackings.Application.Queries.Implementations
 {
@@ -18,7 +21,7 @@ namespace Trackings.Application.Queries.Implementations
             using (var cn = new MySqlConnection(_connectionString))
             {
                 await cn.OpenAsync();
-                result = await cn.QueryAsync<ReceiverViewModel>("receiver__find_all", commandType: CommandType.StoredProcedure);
+                result = (await cn.QueryAsync<ReceiverMapper>("receiver__find_all", commandType: CommandType.StoredProcedure)).Adapt<IEnumerable<ReceiverViewModel>>();
             }
             return result;
         }
@@ -31,7 +34,7 @@ namespace Trackings.Application.Queries.Implementations
                 await cn.OpenAsync();
                 var parameters = new DynamicParameters();
                 parameters.Add("@p_receiver_id", receiverId);
-                result = await cn.QueryFirstOrDefaultAsync<ReceiverViewModel>("receiver__find_by_id", parameters, commandType: CommandType.StoredProcedure);
+                result = (await cn.QueryFirstOrDefaultAsync<ReceiverMapper>("receiver__find_by_id", parameters, commandType: CommandType.StoredProcedure)).Adapt<ReceiverViewModel>();
             }
             return result;
         }

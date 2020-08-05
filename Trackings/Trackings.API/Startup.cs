@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using RealPlaza.Libs.Core;
 using System;
+using Mapster;
+using System.Reflection;
 
 namespace Trackings.API
 {
@@ -35,6 +37,8 @@ namespace Trackings.API
                 container.Populate(services);
                 container.RegisterModule(new ApplicationModule(_configuration["ConnectionString"]));
                 container.RegisterModule(new MediatorModule());
+
+            //TypeAdapterConfig.GlobalSettings.Scan(Assembly.GetExecutingAssembly());
 
             return new AutofacServiceProvider(container.Build());
         }

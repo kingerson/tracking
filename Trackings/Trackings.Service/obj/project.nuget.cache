@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "d80pH/8RhVGfwVZtMjo6cFd/IxAV4k8rwb56S0U1sM+BwH0KgIa5Jvo4FSfXER/UVDI5uVcG/apZnY9pEVZUgQ==",
+  "dgSpecHash": "FQ7q+zC0NsxRLQnPC73aWxgchTWQSNbRIVJEUyhZ5PAVLye4KXqDfzAekYljQq9Lbd/LnNhc7cj77qyocO+Gow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
+  "projectFilePath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Gerson Navarro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\csalv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\csalv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\csalv\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

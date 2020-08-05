@@ -1,9 +1,11 @@
 ﻿using Dapper;
+using Mapster;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
+using Trackings.Application.Queries.Mappers;
 
 namespace Trackings.Application.Queries.Implementations
 {
@@ -31,7 +33,7 @@ namespace Trackings.Application.Queries.Implementations
                 await cn.OpenAsync();
                 var parameters = new DynamicParameters();
                 parameters.Add("@p_brand_id", brandId);
-                result = await cn.QueryFirstOrDefaultAsync<BrandViewModel>("brand__find_by_id", parameters, commandType: CommandType.StoredProcedure);
+                result = (await cn.QueryFirstOrDefaultAsync<BrandMapper>("brand__find_by_id", parameters, commandType: CommandType.StoredProcedure)).Adapt<BrandViewModel>();
             }
             return result;
         }
@@ -44,7 +46,7 @@ namespace Trackings.Application.Queries.Implementations
                 await cn.OpenAsync();
                 var parameters = new DynamicParameters();
                 parameters.Add("@p_mall_id", malId);
-                result = await cn.QueryAsync<BrandViewModel>("brand__find_by_mall", parameters, commandType: CommandType.StoredProcedure);
+                result = (await cn.QueryAsync<BrandMapper>("brand__find_by_mall", parameters, commandType: CommandType.StoredProcedure)).Adapt<IEnumerable<BrandViewModel>>();
             }
             return result;
         }

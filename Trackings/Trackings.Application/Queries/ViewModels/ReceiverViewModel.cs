@@ -2,14 +2,14 @@
 {
     public class ReceiverViewModel
     {
-        public int mall_id { get; set; }
-        public int mall_real_id { get; set; }
-        public string mall_real_name { get; set; }
-        public string mall_real_address { get; set; }
-        public string mall_contact_name { get; set; }
-        public string mall_contact_email { get; set; }
-        public string mall_contact_phone { get; set; }
-        public bool mall_auto_go { get; set; }
-        public bool mall_active { get; set; }
+        public int id { get; set; }
+        public int realId { get; set; }
+        public string realName { get; set; }
+        public string realAddress { get; set; }
+        public string contactName { get; set; }
+        public string contactEmail { get; set; }
+        public string contactPhone { get; set; }
+        public bool autoGo { get; set; }
+        public bool active { get; set; }
     }
 }

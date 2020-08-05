@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj": {}
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj",
         "projectName": "Trackings.IntegrationTests",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.IntegrationTests\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.IntegrationTests\\Trackings.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj": {}
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\Trackings.API.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\Trackings.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\Trackings.API.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\Trackings.API.csproj",
         "projectName": "Trackings.API",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\Trackings.API.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\Trackings.API.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,11 +31,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj"
               },
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj"
               }
             }
           }
@@ -101,24 +101,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
         "projectName": "Trackings.Application",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,11 +132,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
               },
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj"
               }
             }
           }
@@ -153,6 +153,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[8.6.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "MediatR": {
               "target": "Package",
@@ -191,24 +195,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj",
         "projectName": "Trackings.Domain",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -250,24 +254,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj",
         "projectName": "Trackings.Repository",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,8 +285,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
               }
             }
           }
@@ -325,24 +329,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
         "projectName": "Trackings.Service",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Service\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\Trackings.Service.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -388,24 +392,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj": {
+    "D:\\RepoGerson\\tracking\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj",
+        "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj",
         "projectName": "Trackings.UnitTests",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.UnitTests\\obj\\",
+        "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.UnitTests\\Trackings.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+        "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -419,8 +423,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\Trackings.API.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.API\\Trackings.API.csproj"
+              "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\Trackings.API.csproj": {
+                "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.API\\Trackings.API.csproj"
               }
             }
           }
@@ -485,7 +489,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

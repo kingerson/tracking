@@ -10,3 +10,15 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Repository\obj\Deb
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.csproj.CopyComplete
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\bin\Debug\netstandard2.0\Trackings.Repository.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\bin\Debug\netstandard2.0\Trackings.Repository.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\bin\Debug\netstandard2.0\Trackings.Repository.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\bin\Debug\netstandard2.0\Trackings.Domain.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\bin\Debug\netstandard2.0\Trackings.Domain.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.csprojAssemblyReference.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.csproj.CoreCompileInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.csproj.CopyComplete
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Repository\obj\Debug\netstandard2.0\Trackings.Repository.pdb

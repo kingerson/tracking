@@ -135,6 +135,19 @@
           "lib/netstandard2.0/K4os.Hash.xxHash.dll": {}
         }
       },
+      "Mapster/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.3.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Mapster.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mapster.dll": {}
+        }
+      },
       "MediatR/7.0.0": {
         "type": "package",
         "compile": {
@@ -755,6 +768,22 @@
         },
         "compile": {
           "ref/netstandard1.5/System.Reflection.dll": {}
+        }
+      },
+      "System.Reflection.Emit/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Emit.ILGeneration": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.1/System.Reflection.Emit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Reflection.Emit.dll": {}
         }
       },
       "System.Reflection.Emit.ILGeneration/4.6.0": {
@@ -1490,6 +1519,22 @@
         "lib/netstandard1.6/K4os.Hash.xxHash.xml",
         "lib/netstandard2.0/K4os.Hash.xxHash.dll",
         "lib/netstandard2.0/K4os.Hash.xxHash.xml"
+      ]
+    },
+    "Mapster/6.0.0": {
+      "sha512": "jdMsdzSc+XgTyxgKA7Sicqxq2r6+jtACDBoFpFoDSG8NW4sVB/HmYWOaxx2IF74KjIB0OHZAw6P3aBtqqK9qkA==",
+      "type": "package",
+      "path": "mapster/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net40/Mapster.dll",
+        "lib/net45/Mapster.dll",
+        "lib/netstandard1.3/Mapster.dll",
+        "lib/netstandard2.0/Mapster.dll",
+        "mapster.6.0.0.nupkg.sha512",
+        "mapster.nuspec"
       ]
     },
     "MediatR/7.0.0": {
@@ -3314,6 +3359,42 @@
         "system.reflection.nuspec"
       ]
     },
+    "System.Reflection.Emit/4.3.0": {
+      "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
+      "type": "package",
+      "path": "system.reflection.emit/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/monotouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.Reflection.Emit.dll",
+        "lib/netstandard1.3/System.Reflection.Emit.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/net45/_._",
+        "ref/netstandard1.1/System.Reflection.Emit.dll",
+        "ref/netstandard1.1/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/de/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/es/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/fr/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/it/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ja/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ko/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/ru/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/zh-hans/System.Reflection.Emit.xml",
+        "ref/netstandard1.1/zh-hant/System.Reflection.Emit.xml",
+        "ref/xamarinmac20/_._",
+        "system.reflection.emit.4.3.0.nupkg.sha512",
+        "system.reflection.emit.nuspec"
+      ]
+    },
     "System.Reflection.Emit.ILGeneration/4.6.0": {
       "sha512": "z3r/uEhMj+1wUNUa/EA2bWxEL9M8bgFt/22xCOQivES28ex3zWxE+2j0gQF/mdRwzlr0jir64HVlwV5J4zTOfw==",
       "type": "package",
@@ -5112,6 +5193,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "FluentValidation >= 8.6.1",
+      "Mapster >= 6.0.0",
       "MediatR >= 7.0.0",
       "Microsoft.CSharp >= 4.7.0",
       "MySql.Data >= 8.0.21",
@@ -5123,23 +5205,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gerson Navarro\\.nuget\\packages\\": {},
+    "C:\\Users\\csalv\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
+      "projectUniqueName": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
       "projectName": "Trackings.Application",
-      "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
-      "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Application\\obj\\",
+      "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\Trackings.Application.csproj",
+      "packagesPath": "C:\\Users\\csalv\\.nuget\\packages\\",
+      "outputPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gerson Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\csalv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5153,11 +5235,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
-              "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
+            "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj": {
+              "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Domain\\Trackings.Domain.csproj"
             },
-            "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
-              "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\Trackings\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj"
+            "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj": {
+              "projectPath": "D:\\RepoGerson\\tracking\\Trackings\\Trackings.Repository\\Trackings.Repository.csproj"
             }
           }
         }
@@ -5174,6 +5256,10 @@
           "FluentValidation": {
             "target": "Package",
             "version": "[8.6.1, )"
+          },
+          "Mapster": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "MediatR": {
             "target": "Package",
@@ -5212,7 +5298,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

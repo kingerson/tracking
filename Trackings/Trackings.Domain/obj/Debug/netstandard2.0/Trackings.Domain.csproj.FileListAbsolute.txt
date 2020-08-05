@@ -6,3 +6,11 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\n
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.AssemblyInfo.cs
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\bin\Debug\netstandard2.0\Trackings.Domain.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.csproj.CoreCompileInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Domain\obj\Debug\netstandard2.0\Trackings.Domain.pdb

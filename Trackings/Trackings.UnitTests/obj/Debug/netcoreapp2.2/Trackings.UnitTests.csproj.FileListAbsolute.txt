@@ -26,3 +26,31 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.UnitTests\obj\Debu
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.pdb
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.genruntimeconfig.cache
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\appsettings.json
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.UnitTests.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.UnitTests.runtimeconfig.json
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.UnitTests.runtimeconfig.dev.json
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.UnitTests.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.UnitTests.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.API.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Application.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Domain.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Repository.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Service.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.API.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Application.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Domain.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Repository.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\bin\Debug\netcoreapp2.2\Trackings.Service.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.csprojAssemblyReference.cache
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.csproj.CoreCompileInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.csproj.CopyComplete
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.dll
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.UnitTests\obj\Debug\netcoreapp2.2\Trackings.UnitTests.genruntimeconfig.cache

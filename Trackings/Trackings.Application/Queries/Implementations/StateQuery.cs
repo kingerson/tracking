@@ -1,4 +1,5 @@
 ﻿using Dapper;
+using Mapster;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
@@ -18,7 +19,7 @@ namespace Trackings.Application.Queries.Implementations
             using (var cn = new MySqlConnection(_connectionString))
             {
                 await cn.OpenAsync();
-                result = await cn.QueryAsync<StateViewModel>("state__find_all", commandType: CommandType.StoredProcedure);
+                result = (await cn.QueryAsync<StateViewModel>("state__find_all", commandType: CommandType.StoredProcedure)).Adapt<IEnumerable<StateViewModel>>();
             }
             return result;
         }

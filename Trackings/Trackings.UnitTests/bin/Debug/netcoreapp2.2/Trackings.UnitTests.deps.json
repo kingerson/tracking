@@ -1369,6 +1369,7 @@
       "Trackings.Application/1.0.0": {
         "dependencies": {
           "FluentValidation": "8.6.1",
+          "Mapster": "6.0.0",
           "MediatR": "7.0.0",
           "Microsoft.CSharp": "4.7.0",
           "MySql.Data": "8.0.21",
@@ -1885,7 +1886,7 @@
     "System.ComponentModel.TypeConverter/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "hashPath": "system.componentmodel.typeconverter.4.3.0.nupkg.sha512"
     },

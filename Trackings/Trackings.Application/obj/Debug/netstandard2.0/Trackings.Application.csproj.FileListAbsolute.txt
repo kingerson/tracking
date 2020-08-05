@@ -12,3 +12,17 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Application\bin\De
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.csproj.CopyComplete
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Application.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Application.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Application.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Domain.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Repository.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Domain.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Application\bin\Debug\netstandard2.0\Trackings.Repository.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.csprojAssemblyReference.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.csproj.CopyComplete
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Application\obj\Debug\netstandard2.0\Trackings.Application.csproj.CoreCompileInputs.cache

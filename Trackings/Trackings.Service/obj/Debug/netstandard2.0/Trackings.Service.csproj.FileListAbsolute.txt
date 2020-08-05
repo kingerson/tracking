@@ -7,3 +7,11 @@ C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Service\obj\Debug\
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.AssemblyInfo.cs
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.dll
 C:\Users\Gerson Navarro\Desktop\Trackings\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Service\bin\Debug\netstandard2.0\Trackings.Service.deps.json
+D:\RepoGerson\tracking\Trackings\Trackings.Service\bin\Debug\netstandard2.0\Trackings.Service.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Service\bin\Debug\netstandard2.0\Trackings.Service.pdb
+D:\RepoGerson\tracking\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.AssemblyInfoInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.AssemblyInfo.cs
+D:\RepoGerson\tracking\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.csproj.CoreCompileInputs.cache
+D:\RepoGerson\tracking\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.dll
+D:\RepoGerson\tracking\Trackings\Trackings.Service\obj\Debug\netstandard2.0\Trackings.Service.pdb

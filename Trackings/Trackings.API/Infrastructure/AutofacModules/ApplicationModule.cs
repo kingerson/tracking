@@ -28,6 +28,10 @@ namespace Trackings.API.Infrastructure.AutofacModules
                .As<IStateQuery>()
                .InstancePerLifetimeScope();
 
+            builder.Register(c => new ReceiverQuery(_connectionString))
+               .As<IReceiverQuery>()
+               .InstancePerLifetimeScope();
+
             #endregion
 
             #region Repositories
